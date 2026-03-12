@@ -12,9 +12,9 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # =================== CONFIG ===================
-BOT_TOKEN = "8778065589:AAFIYpfFIg3a5Zz2F2lsahWAuABOiCa1m6U"  # apna token yahan daalein
-ADMIN_ID = 7860744037                                          # apna admin ID
-ADMINS = [7860744037]
+BOT_TOKEN = "8433897615:AAEgBgAnbTGFkN7FVcF_c9L-SOqNVQN7850"  # apna token yahan daalein
+ADMIN_ID = 7011937754                                          # apna admin ID
+ADMINS = [7011937754]
 DEFAULT_SMS_API = "https://whatjunaid-production.up.railway.app/api/?type=sms"
 SEEN_FILE = "seen_otps.json"
 
