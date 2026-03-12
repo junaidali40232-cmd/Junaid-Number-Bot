@@ -12,8 +12,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 BOT_TOKEN = "8433897615:AAEgBgAnbTGFkN7FVcF_c9L-SOqNVQN7850"
-ADMIN_ID = 8458643145
-ADMINS = [8458643145]
+ADMIN_ID = 7011937754
+ADMINS = [7011937754]
 DEFAULT_SMS_API = "https://whatjunaid-production.up.railway.app/api/?type=sms"
 
 # =================== PERSISTENCE FILE ===================
