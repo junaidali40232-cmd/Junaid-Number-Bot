@@ -12,7 +12,7 @@ from telegram.constants import ParseMode
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "8472312163:AAEbZy0cEASPuGvNnTE"   # apna token yahan daalein
+BOT_TOKEN = "8433897615:AAEgBgAnbTGFkN7FVcF_c9L-SOqNVQN7850"   # apna token yahan daalein
 ADMIN_ID = 7011937754                          # apna admin ID
 ADMINS = [7011937754]
 
